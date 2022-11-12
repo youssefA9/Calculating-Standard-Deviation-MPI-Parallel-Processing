@@ -1,8 +1,8 @@
 # Standard Deviation MPI
  Calculating Standard Deviation MPI Parallel Processing
  
-Given:
+ Given:<br/>
  An integer n (number of elements per each process).
 
-Output:
+ Output:<br/>
  Standard deviation of randomly generated (n * numberOfProcesses) elements.
